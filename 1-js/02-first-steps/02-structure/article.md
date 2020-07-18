@@ -1,10 +1,10 @@
-# Code structure
+# कोड संरचना (Code Structure)
 
-The first thing we'll study is the building blocks of code.
+पहली चीज जिसका हम अध्ययन करेंगे, वह कोड ईंट है।
 
-## Statements
+## स्टेटमेंट (Statements)
 
-Statements are syntax constructs and commands that perform actions.
+स्टेटमेंट किसी भी कार्य को करने वाले वाक्य रचना और आदेश हैं।
 
 We've already seen a statement, `alert('Hello, world!')`, which shows the message "Hello, world!".
 
